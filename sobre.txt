@@ -1,0 +1,6 @@
+minha tragetória no git:
+
+- comandos básicos: já consigo usar com naturaliade
+- branches e merge: estou pegando o costume, consigo fazer sem pesquisar
+- repositório básico: consigo fazer
+- pull requests, issues e fork: ainda preciso pesquisar mais sobre

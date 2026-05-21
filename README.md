@@ -1,4 +1,5 @@
 # sobre o projeto
+Contatos.py: dicionário com contatos no qual o usuário poderá adicionar novos contatos
 
 # histórico e evolução do projeto
 
